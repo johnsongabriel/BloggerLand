@@ -1,0 +1,23 @@
+[
+    {
+    "title": "My first updated post",
+    "content": "My first updated post! \r\n\r\nThis is exciting",
+    "user_id": 1
+    },
+    {
+        "title": "A second Post",
+        "content": "This is from a different user",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Programming languages",
+        "content": "Python, JavaScript, Java, PHP, C++",
+        "user_id": 1
+    },
+    {
+        "title": "VSCODES Tips and Trick",
+        "content": "Visual Studio Code is one of the best IDE(Intergrated Development Environment) for development has it facilitate you with every tools needed for successful software development",
+        "user_id": 1
+    }
+    
+]
