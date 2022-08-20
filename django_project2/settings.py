@@ -140,8 +140,8 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-EMAIL_HOST_USER = 'johnsongabimoisili2003@gmail.com'
-EMAIL_HOST_PASSWORD = 'itmbavtbfkpfbmuq'
+EMAIL_HOST_USER = os.environ.get('USER-EMAIL')
+EMAIL_HOST_PASSWORD = os.environ.get('EMAIL-PASSWORD')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
